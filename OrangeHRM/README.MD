@@ -1,4 +1,4 @@
-This document is a "navigation" guide through the OrangeHRM application folder uploaded in "QA personal projects" repository.The folder contains documents related to manual software testing of the app using Waterfall strategy aproach.Also the testing process has been realised from the point of functionality provided by this application.  
+This document is a "navigation" guide through the OrangeHRM application folder uploaded in "QA personal projects" repository.The folder contains documents related to manual software testing of the app using Waterfall aproach.Also the testing process has been realised from the point of functionality provided by this application.  
 
 Folder structure:
 
